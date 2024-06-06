@@ -1,0 +1,36 @@
+body{
+    background-image: url(/kabs.jpg);
+    background-size: 500px;
+    margin:1%;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding: 1%;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+button{
+    background-color: aqua;
+    color: black;
+    padding: 10px 20px;
+    border: 1px solid  rgb(7, 202, 246);
+    font-weight:70px;
+}
+#del-btn{
+    background:white ;
+    color: brown;
+}
+ul{
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0%;
+}
+li{
+    margin-top: 5px;
+}
+a{
+    color: aquamarine;
+}

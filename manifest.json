@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "name": "KR Project",
+    "action": {
+        "default_popup": "Pro1.html",
+        "default_icon":"icon.png"
+    },
+    "permissions": [
+        "tabs",
+        "activeTab"
+    ]
+}
